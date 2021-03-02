@@ -1,0 +1,16 @@
+[package]
+name = "data"
+version = "0.1.0"
+authors = ["clpi <chrisp1877@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+Inflector = "0.11.4"
+aho-corasick = "0.7.15"
+comfy-table = "2.1.0"
+markov = "1.1.0"
+natural = "0.5.0"
+petgraph = "0.5.1"
+scanlex = "0.1.4"
